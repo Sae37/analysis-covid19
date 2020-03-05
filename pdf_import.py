@@ -3,7 +3,8 @@ import sys
 import tabula
 
 ## pdf file location
-file = "20200121_COVID-19_SR001.pdf"
+##file = "20200121_COVID-19_SR001.pdf"
+file = "/home/sae/code/analysis-covid19/20200121_COVID-19_SR001.pdf"
 
 ## Add relative path to py script to provide full path for pdf file.
 ##file = os.path.join(sys.path[0], "20200121_COVID-19_SR001.pdf")
